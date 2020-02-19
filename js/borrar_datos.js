@@ -11,5 +11,5 @@ function fBoton1()
 function borrarTabla()
 {
   var x=$("#tabla1 td.p");
-  x.text("-");
+  x.text("***********");
 }
